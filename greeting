@@ -1,0 +1,4 @@
+
+#!/bin/sh
+echo hello, $(whoami), it is $(date). You are running kernel $(uname -r) on a $(uname -p).
+
